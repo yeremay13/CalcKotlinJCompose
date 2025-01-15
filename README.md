@@ -22,7 +22,8 @@ Este proyecto es una aplicación Android sencilla de una calculadora que permite
 
 ## 📱 Capturas de pantalla
 
----
+![image](https://github.com/user-attachments/assets/817f4b38-4c17-4589-a6bd-1b36416b57b5)
+
 
 ## 🚀 Instalación y ejecución
 
